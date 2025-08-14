@@ -1,4 +1,6 @@
 # MetaMask Help Center Content
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWooked361%2Fsupport-metamask-io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWooked361%2Fsupport-metamask-io?ref=badge_shield)
+
 
 The MetaMask Help Center lives at https://www.support.metamask.io.
 
@@ -23,3 +25,7 @@ If that process is too involved for you, you can always open a thread on the [Me
 For help on formatting your submission correctly, check out these guidelines:
 
 - [Format your Markdown](https://docs-template.consensys.net/contribute/format-markdown) correctly.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWooked361%2Fsupport-metamask-io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWooked361%2Fsupport-metamask-io?ref=badge_large)
